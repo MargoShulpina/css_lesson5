@@ -8,15 +8,14 @@ h1 {
   display: inline-block;
   background: #ec8f04;
   text-transform: uppercase;
-  font-size: 18px;
-  font-family: Arial, Helvetica, sans-serif;
-  padding: 10px 10px;
-  
+  font-size: 17px;
+  padding: 8px 8px 9px 8px;
   color: white;
   margin: 0;
   border: 1px solid #dddddd;
   border-bottom: 0px;
-}
+  font-family: Arial, Helvetica, sans-serif;
+  }
 ul {
   background: white;
   margin: 0;
@@ -29,5 +28,6 @@ li {
 }
 a {
   color:#373636;
-  font-size: 20px;
+  font-size: 16.5px;
+  font-family: Arial, Helvetica, sans-serif;
 }
