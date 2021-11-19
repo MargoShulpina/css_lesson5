@@ -6,7 +6,7 @@ h1 {
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 900;
   
-  padding: 12px 0 10px 0;
+  padding: 12px 0 9px 0;
   color: #444444;
   margin: 0;
   border: 1px solid #dddddd;
@@ -22,18 +22,16 @@ ul {
 li {
   list-style: none;
   border-bottom: 1px solid #dddddd;
-  padding: 10px 0 5px 0;
+  padding: 7px 0 6px 0;
   text-align: justify;
 }
 a {
   text-decoration: none;
-  font-family: Arial, Helvetica, sans-serif;
-  letter-spacing: 1px;
-  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: #444444;
   /* color: black; */
   padding-left: 13px;
-  font-size: 19px;
+  font-size: 20px;
   display: block;
 }
 li:hover,
